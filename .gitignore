@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# mac
+.DS_Store
+
+# Data generated
+data/generated/
+data/monkey_reaching_preload_smth_40/
+
 # Distribution / packaging
 .Python
 build/
@@ -77,6 +84,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.ipynb_checkpoints/
 
 # IPython
 profile_default/
@@ -124,6 +132,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+bundle_env/
 ENV/
 env.bak/
 venv.bak/
