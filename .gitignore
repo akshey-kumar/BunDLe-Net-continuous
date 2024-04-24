@@ -11,7 +11,8 @@ __pycache__/
 
 # Data generated
 data/generated/
-data/monkey_reaching_preload_smth_40/
+data/rat_hippocampus/
+#data/monkey_reaching_preload_smth_40/
 
 # Distribution / packaging
 .Python
