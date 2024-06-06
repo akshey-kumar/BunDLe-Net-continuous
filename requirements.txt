@@ -1,9 +1,9 @@
-mat73
-numpy
-tqdm
-scipy
-matplotlib
+mat73==0.60
+numpy==1.26.0
+tqdm==4.65.0
+scipy==1.11.1
+matplotlib==3.8.4
 tensorflow==2.13.0rc2
-scikit-learn
-seaborn
-cebra
+scikit-learn==1.3.0
+seaborn==0.12.2
+cebra==0.2.0
